@@ -4,7 +4,7 @@ from email.mime.text import MIMEText
 
 sender_email = 'tihbaextrema@gmail.com'
 sender_password = 'dyvbhqkhqguzvxmj'
-recipient_email = 'tihbaextrema@gmail.com'
+recipient_email = 'emailteste@gmail.com'
 subject = 'Teste Ping Monitor'
 device_list = []
 last_alert_time = None
