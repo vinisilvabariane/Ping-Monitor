@@ -36,7 +36,7 @@ O status dos dispositivos será limpo na tabela.
 
 Alerta de Dispositivos Não Respondendo:
 Quando um dispositivo para de responder ao ping, um alerta por email será enviado 
-(para tihbaextrema@gmail.com). Verifique a seção "Configurações de Email" no 
+(para emailteste@gmail.com). Verifique a seção "Configurações de Email" no 
 código para personalizar o remetente, destinatário e servidor SMTP.
 
 
